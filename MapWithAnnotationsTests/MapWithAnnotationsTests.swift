@@ -1,10 +1,3 @@
-//
-//  MapWithAnnotationsTests.swift
-//  MapWithAnnotationsTests
-//
-//  Created by Sullivan De carli on 22/01/2021.
-//
-
 import XCTest
 @testable import MapWithAnnotations
 
